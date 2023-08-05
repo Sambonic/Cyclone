@@ -95,7 +95,7 @@ To say the undertaking of this project was difficult would be an understatement.
 - **3D Print the Structure**: The price may vary according to your location and design of choice, but it's well worth it as using cardboard was too flimsy for a game that requires aggressive button pressing as you progress with each level.
 - **Optimize the Code**: The code was written in an unoptimized way because loops, in general, kept crashing the Arduino IDE or simply cause the code to not run properly. Unfortunately, I didn't have time to investigate the reasons, but maybe you do.
 - **Rigorous Testing**: One thing I didn't account for, as someone in the field of software engineering, is the hardware limitations. While the code ran perfectly in simulation, issues started piling up once uploaded to the hardware. Button debouncing, broken components, and faulty wires wasted precious time and resources and completely changed how we worked on the software side of things.
-- 
+
 ## Acknowledgements <a name="acknowledgements"></a>
 
 This was first and foremost a group project with my three other team members: Sarah Abdelwareth, Konouz Abdelaziz and Kenzy Haitham. Special thanks to our TA for his supportive role throughout the journey and providing us with constant feedback on each phase of the project from start to finish.
